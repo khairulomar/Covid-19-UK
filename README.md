@@ -24,7 +24,7 @@ In contrast to the latest situation where a recovery trend is well underway, the
 
 ### Identifying changes in new cases
 
-While the charts above are great in conveying the trend over several weeks, it can be hard to identify the detailed movements over shorter periods of time, especially when the differences are relatively low. The chart below shows the breakdown of 7-day changes in new daily cases (by means of 7-day average), split by where cases are growing and where they are shrinking. This is also particularly important in the event where the total national case is flat, but caused by large pluses that are offset by large minuses - without for a clear picture of the underlying drivers behind the regional figures, we would be making the wrong conclusions.
+While the charts above are useful in conveying the trend over several weeks, it can be hard to identify the detailed movements over shorter periods of time, especially when the differences are relatively low. The chart below shows the breakdown of 7-day changes in new daily cases (by means of 7-day average), split by where cases are growing and where they are shrinking. This is also particularly important in the event where the total national case is flat, but caused by large pluses that are offset by large minuses - without for a clear picture of the underlying drivers behind the regional figures, we would be making the wrong conclusions.
 <p>
 <img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk2_changes_by_county.png?raw=true">
 <p>
