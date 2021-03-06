@@ -12,6 +12,8 @@ BBC color scale
 <p>
 <img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/scale_bbc.png?raw=true">
 <p>
+<img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk1-incidence_and_trend_20210109.png?raw=true">
+<p>  
 
 ### Section 2
 
@@ -26,44 +28,32 @@ Text
 <p>
 <img align="left" src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk3_incidence_rate_by_region.png?raw=true">
 <p>
+  
+Text
 <p>
+<img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk4_incidence_rate_by_county.png?raw=true">
+<p>
+
+Text
+<p>
+<img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk7_changes_in_cases.png?raw=true">
 <p>
   
 Text
 <p>
-<img align="left" src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk4_incidence_rate_by_county.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk8_changes_in_hospitalization.png?raw=true">
 <p>
-<p>
-<p>
-  
+
 Text
 <p>
-<img align="left" src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk7_changes_in_cases.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk9-incidence_spread.png?raw=true">
 <p>
-<p>
-<p>
-  
+
 Text
 <p>
-<img align="left" src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk8_changes_in_hospitalization.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk10-tier_spread.png?raw=true">
 <p>
-<p>
-<p>
-  
+
 Text
 <p>
-<img align="left" src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk9-incidence_spread.png?raw=true">
-<p>
-<p>
-<p>
-  
-Text
-<p>
-<img align="left" src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk10-tier_spread.png?raw=true">
-<p>
-<p>
-<p>
-  
-Text
-<p>
-<img align="left" src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk11_model_first_wave.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk11_model_first_wave.png?raw=true">
