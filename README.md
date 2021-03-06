@@ -13,11 +13,11 @@ By combining the 7-day incidence rate with the 7-day average of new daily cases,
 <p>
 <img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk1-incidence_and_trend.png?raw=true">
 <p>
-The colour scale used for the 7-day new cases per 100,000 population in the chart above and all others that follow is based on the BBC's colour palette.
+The colour scale used for the 7-day new cases per 100,000 population in the chart above and all others that follow is based on the BBC's palette.
 <p>
 <img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/scale_bbc.png?raw=true">
 <p>
-In contrast to the latest situation where a recovery trend is well underway, the chart below shows how the situation looked like on 9 Jan 2021 when the total UK daily cases reached its peak at 60,000. London, Liverpool and Essex all went off the charts with a 7-day incidence rate exceeding 1000 cases per 100,000 population. Regions in the south were hardest hit first before it spread further north; and as we would later observed, Midlands would be the last area to recover from the worst of the second wave.
+In contrast to the latest situation where a recovery trend is well underway, the chart below shows how the situation looked like on 9 Jan 2021 when the total UK daily cases reached its peak at 60,000. London, Liverpool and Essex all went off the charts with a 7-day incidence rate exceeding 1000 cases per 100,000 population. Regions in the south were hardest hit first before it spread further north; and as we would later observe, Midlands would be the last area to recover from the worst of the second wave.
 <p>
 <img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk1-incidence_and_trend_20210109.png?raw=true">
 <p>  
