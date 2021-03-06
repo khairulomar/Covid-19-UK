@@ -6,8 +6,8 @@ For details on Python codes used to derive the analysis, please refer to <b><a h
 ### Section 1 
 Text
 <br><br>
-<img align="left" src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk1-incidence_and_trend.png?raw=true">
-<br><br>
+<img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk1-incidence_and_trend.png?raw=true">
+<br><br><br>
 BBC color scale
 <br><br>
 <img align="left" src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/scale_bbc.png?raw=true">
