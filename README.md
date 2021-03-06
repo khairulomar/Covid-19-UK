@@ -7,17 +7,17 @@ For details on Python codes used to derive the analysis, please refer to <b><a h
 Text
 <br><br>
 <img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk1-incidence_and_trend.png?raw=true">
-<br><br>
+<p>
 BBC color scale
-<br><br>
+<p>
 <img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/scale_bbc.png?raw=true">
-<br><br><br>
+<p>
 
 ### Section 2
 
 Text
 <p>
-<img align="left" src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk2_changes_by_county.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk2_changes_by_county.png?raw=true">
 <p>
   
 ### Section 3
