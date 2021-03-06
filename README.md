@@ -1,4 +1,4 @@
-# Analysis of Covid-19 in the UK
+# Alternative Analysis of Covid-19 in the UK
 <b>Updated as of 22 Feb 2021</b>
 
 ### Objective
