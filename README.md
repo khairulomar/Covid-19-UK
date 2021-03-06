@@ -11,8 +11,7 @@ Text
 BBC color scale
 <p>
 <img align="left" src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/scale_bbc.png?raw=true">
-<p>
-<hr>
+<br><br><br>
 
 ### Section 2
 
