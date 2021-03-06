@@ -15,6 +15,8 @@ BBC color scale
 <p>
 <img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/scale_bbc.png?raw=true">
 <p>
+In contrast, this is how the situation looked like on 9 Jan 2021 when the total UK daily cases reached its peak at 60,000. London, Liverpool and Essex all went off the charts with a 7-day incidence rate exceeding 1000 cases per 100k population. Regions in the south were hardest hit first before it spread further north; and as we would later observed, Midlands would be the last area to recover from the worst of the second wave.
+<p>
 <img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk1-incidence_and_trend_20210109.png?raw=true">
 <p>  
 
