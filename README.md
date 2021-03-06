@@ -7,15 +7,15 @@ Since the onset of the pandemic, multiple public and private organizations in th
 Charts below are best viewed on a widescreen format: click each chart to expand to full-sized resolution. For details on Python codes used to derive these visualizations, refer to the <b><a href="https://nbviewer.jupyter.org/github/khairulomar/Covid-19-UK/blob/main/uk-covid.ipynb?flush_cache=true">Jupyter notebook</a></b>.
 
 ### All-in-one view by region
-Text
-<br><br>
+The first chart is inspired by the <b><a href="https://www.bbc.co.uk/news/uk-51768274">BBC</a></b>'s map of the UK that is colour-coded based on the total 7-day new cases per 100,000 population (incidence rate) which shows where the hotspots in the country are. Standardizing the data in this format is essential so that areas with different population sizes can be compared on an equal footing, but the number of days may differ according to jurisdiction, for example the European Union reports on a 14-day basis. The downside to BBC's map is that it only shows the snapshot of the current situation and leaves out the movement of the recent trend in order for us to gauge where the case trajectory is heading. By combining the 7-day incidence rate with the 7-day average of new daily cases, we get a much clearer picture on the distinct trends in different regions, for example London only has one peak compared to two in large areas in the north. This can be particularly useful when formulating a forecasting model for the whole country, since we may need to forecast these two categories of regions separately and add the outcome at the end, instead of using the total national figure as an input which ignores these underlying patterns.
+<p>
 <img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk1-incidence_and_trend.png?raw=true">
 <p>
-BBC color scale
+The colour scale used for the 7-day incidence rate per 100,000 population in the chart above and all others that follow is based on the BBC's colour palette.
 <p>
 <img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/scale_bbc.png?raw=true">
 <p>
-In contrast, this is how the situation looked like on 9 Jan 2021 when the total UK daily cases reached its peak at 60,000. London, Liverpool and Essex all went off the charts with a 7-day incidence rate exceeding 1000 cases per 100k population. Regions in the south were hardest hit first before it spread further north; and as we would later observed, Midlands would be the last area to recover from the worst of the second wave.
+In contrast, this is how the situation looked like on 9 Jan 2021 when the total UK daily cases reached its peak at 60,000. London, Liverpool and Essex all went off the charts with a 7-day incidence rate exceeding 1000 cases per 100,000 population. Regions in the south were hardest hit first before it spread further north; and as we would later observed, Midlands would be the last area to recover from the worst of the second wave.
 <p>
 <img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk1-incidence_and_trend_20210109.png?raw=true">
 <p>  
