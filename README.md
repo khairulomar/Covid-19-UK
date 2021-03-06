@@ -2,7 +2,7 @@
 <b>Updated as of 22 Feb 2021</b>
 
 ### Objective
-Since the onset of the pandemic, multiple public and private organizations in the UK have published various methods and formats of data analysis to track the spread and severity of Covid-19 using government figures released via an <b><a href="https://coronavirus.data.gov.uk/">API</a></b>, for which this repository is based on. Despite the multitude of data visualisations that are published daily by the government and media outlets, I have yet to come across several formats that I believe would be even more useful in understanding the latest situation and trend. My analysis in this repository aims to showcase these new visualization ideas.
+Since the onset of the pandemic, multiple public and private organizations in the UK have published various methods and formats of data analysis to track the spread and severity of Covid-19 using government figures released via an <b><a href="https://coronavirus.data.gov.uk/">API</a></b>, for which this repository is based on. Despite the multitude of data visualisations that are published daily by the government and media outlets, <b>I have yet to come across several formats that I believe would be even more useful in understanding the latest situation and trend. My analysis in this repository aims to showcase these new visualization ideas</b>.
 <p>
 Charts below are best viewed on a widescreen format: click each chart to expand to full-sized resolution. For details on Python codes used to derive these visualizations, refer to the <b><a href="https://nbviewer.jupyter.org/github/khairulomar/Covid-19-UK/blob/main/uk-covid.ipynb?flush_cache=true">Jupyter notebook</a></b>.
 
