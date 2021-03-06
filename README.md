@@ -11,13 +11,15 @@ Text
 BBC color scale
 <p>
 <img align="left" src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/scale_bbc.png?raw=true">
-
+<p>
+  
 ### Section 2
 
 Text
 <p>
 <img align="left" src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk2_changes_by_county.png?raw=true">
-
+<p>
+  
 ### Section 3
   
 <p>Text
