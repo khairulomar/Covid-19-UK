@@ -1,5 +1,5 @@
 # Covid-19 analysis in the UK
-<b>Updated as of 22 Feb 2021<b>
+<b>Updated as of 22 Feb 2021</b>
 
 For details on Python codes used to derive the analysis, please refer to <b><a href="https://nbviewer.jupyter.org/github/khairulomar/Covid-19-UK/blob/main/uk-covid.ipynb?flush_cache=true">Covid-19-UK.ipynb</a></b> Jupyter notebook.
 <p>
