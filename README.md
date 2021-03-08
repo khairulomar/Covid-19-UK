@@ -31,7 +31,7 @@ While the charts above are useful in conveying the trend over several weeks, it 
   
 ### Evolution of incidence rate
   
-UK government has produced an  <a href="https://coronavirus.data.gov.uk/">interactive map</a> of the country that shows the evolution of total 7-day cases per 100,000 population as a measure of incidence rate. However, there is still an absence of a single-view visualization to assess this timeline evolution by region which is what I tried to produce in the two charts below, one showing the main regions of the UK, followed by additional breakdown by county. D1 to D4 in the charts refer to the key milestones, namely the start of the 3-tier system (D1), the start (D2) and the end (D3) of second England lockdown, and the start of the third England lockdown (D4).
+UK government has produced an  <a href="https://coronavirus.data.gov.uk/">interactive map</a> of the country that shows the evolution of total 7-day cases per 100,000 population as a measure of incidence rate. However, there is still an absence of a single-view visualization to assess this timeline evolution by region which is what I tried to produce in the two charts below, one showing the main regions of the UK, followed by additional breakdown by county. D1 to D4 in the charts refer to the key milestones, namely the start of the 3-tier system (D1), the start (D2) and the end (D3) of second England lockdown, the start of Tier 4 in London and the South East (D4), and and the start of Tier 4 in all remaining regions (D5).
 <p>
 <img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk3_incidence_rate_by_region.png?raw=true">
 <p>
