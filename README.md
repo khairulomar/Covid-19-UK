@@ -31,21 +31,22 @@ While the charts above are useful in conveying the trend over several weeks, it 
   
 ### Evolution of incidence rate
   
-<p>UK government has produced an  <a href="https://coronavirus.data.gov.uk/">interactive map</a> of the country that shows the evolution of total 7-day cases per 100,000 population as a measure of incidence rate. However, there is still an absence of a single-view visualization to assess this timeline evolution by region which is what I tried to produce in the two charts below, one showing the main regions of the UK, followed by additional breakdown by county. D1 to D4 in the charts refer to the key milestones, namely the start of the 3-tier system (D1), the start (D2) and the end (D3) of second England lockdown, and the start of the third England lockdown (D4).
+UK government has produced an  <a href="https://coronavirus.data.gov.uk/">interactive map</a> of the country that shows the evolution of total 7-day cases per 100,000 population as a measure of incidence rate. However, there is still an absence of a single-view visualization to assess this timeline evolution by region which is what I tried to produce in the two charts below, one showing the main regions of the UK, followed by additional breakdown by county. D1 to D4 in the charts refer to the key milestones, namely the start of the 3-tier system (D1), the start (D2) and the end (D3) of second England lockdown, and the start of the third England lockdown (D4).
 <p>
-<img align="left" src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk3_incidence_rate_by_region.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk3_incidence_rate_by_region.png?raw=true">
 <p>
 Similar set of data broken down by county for further deep dive:
 <p>
 <img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk4_incidence_rate_by_county.png?raw=true">
 <p>
 
-Text
+### Focus on week-on-week changes
+
+Most visualizations are focused on the actual daily figures, but in some instances, it would be better to visualize them in the form of changes. For example in determining the effectiveness of a lockdown, it can be more useful to focus on the changes, as shown below as the week-on-week changes of 7-day average of new cases. Similar use case can also be implemented in comparing the evolution of R number, but instead of using the absolute change in new cases, we can use the change in new cases in percentages to be comparable with the method used in deriving R number.
 <p>
 <img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk7_changes_in_cases.png?raw=true">
 <p>
-  
-Text
+Week-on-week changes in the number of Covid patients below can be compared with the previous chart, which highlights the time delay between the drop in new cases and the drop in hospitalization numbers.
 <p>
 <img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk8_changes_in_hospitalization.png?raw=true">
 <p>
