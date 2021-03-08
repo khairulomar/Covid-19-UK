@@ -51,6 +51,13 @@ Week-on-week changes in the number of Covid patients below can be compared with 
 <img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk8_changes_in_hospitalization.png?raw=true">
 <p>
 
+### Estimating case numbers when testing is limited
+
+The BBC does a good job in highlighing that the number of offically reported cases prior to mid-May on their <a href="https://www.bbc.co.uk/news/uk-51768274">daily chart</a> is understated due to the targeted testing policy at the time, and therefore cannot be justifiably compared with figures when mass testing is available. However, the BBC does not show what the possible true rate might be during this stage, which I believe would be useful in order to make a comparison with the second wave. To achieve this, I have used hospitalization data from the NHS as a predictor, since it has proven to be more reliable indicator even when testing is limited. By employing a regression model on the new cases and hospitalization data during the second wave, I fed the hospitalization data from the first wave in order to gauge the possible true extent of positive cases at the time. Due to the delay between a positive test and the need for hospitalization, I time-shifted the hospitalization data by 2 weeks as an input which gave a colleration score of 92%.
+<p>
+<img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk11_model_first_wave.png?raw=true">
+<p>
+
 Text
 <p>
 <img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk9-incidence_spread.png?raw=true">
@@ -59,8 +66,3 @@ Text
 Text
 <p>
 <img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk10-tier_spread.png?raw=true">
-<p>
-
-Text
-<p>
-<img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk11_model_first_wave.png?raw=true">
