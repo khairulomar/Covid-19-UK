@@ -35,14 +35,14 @@ UK government has produced an  <a href="https://coronavirus.data.gov.uk/">intera
 <p>
 <img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk3_incidence_rate_by_region.png?raw=true">
 <p>
-Similar set of data broken down by county for further deep dive:
+Similar set of data broken down by county for further deep dive, but with x- and y-axis swapped for better clarity:
 <p>
 <img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk4_incidence_rate_by_county.png?raw=true">
 <p>
 
 ### Focus on week-on-week changes
 
-Most visualizations are focused on the actual daily figures, but in some instances, it would be better to visualize them in the form of changes. For example in determining the effectiveness of a lockdown, it can be more useful to focus on the changes, as shown below as the week-on-week changes of 7-day average of new cases. Similar use case can also be implemented in comparing the evolution of R number, but instead of using the absolute change in new cases, we can use the change in new cases in percentages to be comparable with the method used in deriving R number.
+Most visualizations are focused on the actual daily figures, but in many instances, it would be better to visualize them in the form of changes. For example, in determining the effectiveness of a lockdown, it can be more useful to focus on the changes as shown below as the week-on-week change of 7-day average of new cases which better highlights when cases are decreasing or increasing and at what magnitude. Similar use case can also be implemented in comparing the evolution of R number, but instead of using the absolute change in new cases, we can use the change in new cases as a percentage to be comparable with the method used in deriving R number.
 <p>
 <img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk7_changes_in_cases.png?raw=true">
 <p>
