@@ -58,11 +58,9 @@ The BBC does a good job in highlighing that the number of offically reported cas
 <img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk11_model_first_wave.png?raw=true">
 <p>
 
-Text
+### Identifying the worst affected localities
+
+The are multiple ways in assessing which localities in the UK are the worst affected, including using the number of total deaths, total hospitalization, or total cases (either as absolute number or per population size). I have added another way to address this by looking at the spread of its daily incidence rate by means of total 7-day cases and plotting them on a box-and-whiskers to visualize its median, quartiles, and maximum rates. For this purpose, only data from Aug is included after mass testing was truly widespread so that data at different times are fairly comparable. We can observe few patterns here: while Isle of Wight has seen some of the worst daily rates (1200+), this only happened for a very brief period of time, while during other times the rates are low at below 100 mark. Liverpool has among the highest median rates, and the spread of its quartile rates which spans to almost 500 shows that the city not only faced one of the worst rates, but also spans across a long timescale.
 <p>
 <img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk9-incidence_spread.png?raw=true">
 <p>
-
-Text
-<p>
-<img src="https://github.com/khairulomar/Covid-19-UK/blob/main/img/covid-uk10-tier_spread.png?raw=true">
